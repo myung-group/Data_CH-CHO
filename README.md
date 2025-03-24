@@ -1,7 +1,7 @@
 # Data_CH-CHO
 This repository accompanies the paper “A Sparse Bayesian Committee Machine Potential for Oxygen-containing Organic Compounds” by Soohaeng Yoo Willow, Seungwon Kim, D. ChangMo Yang, Miran Ha, Amir Hajibabaei, Jung Woon Yang, Kwang S. Kim, and Chang Woo Myung.
 
-The figures in the paper are in the folder Figures. Using in the AutoForce package [https://github.com/amirhajibabaei/AutoForce] and script, data for plotting all of the graphs in the main text and supplementary information can generate easily. Data folder are not uploaded here, because of a large amount of calculation data. But, compressed file is uploaded and provided to an external site (Zenodo) [link below].
+The figures in the paper are in the folder Figures. Using in the AutoForce package [https://github.com/amirhajibabaei/AutoForce] and script, data for plotting all of the graphs in the main text and supplementary information can generate easily. Data folder are not uploaded here, because of a large amount of calculation data. But, compressed file is uploaded and provided to an external site (Zenodo) [http://www.doi.org/10.5281/zenodo.15055522].
 If you want to running whole simulations, you have to install AutoForce python package. You can generate own SGPR_based machine learning models [model.pckl] through running AutoForce in the data file. 
 
 

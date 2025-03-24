@@ -1,1 +1,1 @@
-Data folder are not uploaded here, because of a large amount of calculation data. But, compressed file is uploaded and provided to an external site (Zenodo) [link below].
+Data folder are not uploaded here, because of a large amount of calculation data. But, compressed file is uploaded and provided to an external site (Zenodo) [http://www.doi.org/10.5281/zenodo.15055522].
